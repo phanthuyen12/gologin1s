@@ -1,0 +1,49 @@
+{
+    "navigator": {
+        "userAgent": "string",
+        "resolution": "string",
+        "language": "string",
+        "platform": "string",
+        "doNotTrack": false,
+        "hardwareConcurrency": 0,
+        "deviceMemory": 1,
+        "maxTouchPoints": 0
+    },
+    "canvas": {
+        "mode": "off",
+        "noise": 0
+    },
+    "mediaDevices": {
+        "videoInputs": 0,
+        "audioInputs": 0,
+        "audioOutputs": 0,
+        "enableMasking": false
+    },
+    "webGLMetadata": {
+        "mode": "mask",
+        "vendor": "string",
+        "renderer": "string"
+    },
+    "webglParams": [],
+    "webGL": {
+        "mode": "noise",
+        "getClientRectsNoise": 0,
+        "noise": 0
+    },
+    "clientRects": {
+        "mode": "noise",
+        "noise": 0
+    },
+    "os": "lin",
+    "devicePixelRatio": 1,
+    "fonts": {
+        "families": [
+            "string"
+        ],
+        "enableMasking": true,
+        "enableDomRect": true
+    },
+    "extensionsToNewProfiles": [],
+    "userExtensionsToNewProfiles": [],
+    "autoLang": true
+}
